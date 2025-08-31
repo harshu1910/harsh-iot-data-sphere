@@ -1,6 +1,6 @@
 import { Button } from "@/components/ui/button";
 import { Github, Linkedin, Instagram, Mail } from "lucide-react";
-import profileImage from "@/assets/harsh-profile.jpg";
+import profileImage from "@/assets/harsh-real-profile.jpg";
 
 const Hero = () => {
   const scrollToContact = () => {
